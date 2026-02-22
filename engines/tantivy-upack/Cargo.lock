@@ -694,7 +694,7 @@ dependencies = [
 [[package]]
 name = "ownedbytes"
 version = "0.9.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "stable_deref_trait",
 ]
@@ -943,7 +943,7 @@ dependencies = [
 [[package]]
 name = "tantivy"
 version = "0.26.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "aho-corasick",
  "arc-swap",
@@ -1008,7 +1008,7 @@ dependencies = [
 [[package]]
 name = "tantivy-bitpacker"
 version = "0.9.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "bitpacking",
 ]
@@ -1016,7 +1016,7 @@ dependencies = [
 [[package]]
 name = "tantivy-columnar"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "downcast-rs",
  "fastdivide",
@@ -1031,7 +1031,7 @@ dependencies = [
 [[package]]
 name = "tantivy-common"
 version = "0.10.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "async-trait",
  "byteorder",
@@ -1054,7 +1054,7 @@ dependencies = [
 [[package]]
 name = "tantivy-query-grammar"
 version = "0.25.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "fnv",
  "nom",
@@ -1066,7 +1066,7 @@ dependencies = [
 [[package]]
 name = "tantivy-sstable"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "futures-util",
  "itertools",
@@ -1079,7 +1079,7 @@ dependencies = [
 [[package]]
 name = "tantivy-stacker"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "murmurhash32",
  "tantivy-common",
@@ -1088,7 +1088,7 @@ dependencies = [
 [[package]]
 name = "tantivy-tokenizer-api"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=f5c4678#f5c46782fbd6539ab5c1d828b7c7473914dbd890"
+source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
 dependencies = [
  "serde",
 ]
@@ -1211,7 +1211,7 @@ checksum = "ebc1c04c71510c7f702b52b7c350734c9ff1295c464a03335b00bb84fc54f853"
 [[package]]
 name = "upack"
 version = "1.0.0"
-source = "git+https://github.com/lnx-search/upack.git?rev=9009e3f#9009e3f7cadeaec41baeb3f91972c55fb585afb6"
+source = "git+https://github.com/lnx-search/upack.git?rev=dd57145#dd5714532b134713265b983304c4087d918d6dfe"
 
 [[package]]
 name = "utf8-ranges"
