@@ -694,7 +694,7 @@ dependencies = [
 [[package]]
 name = "ownedbytes"
 version = "0.9.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "stable_deref_trait",
 ]
@@ -943,7 +943,7 @@ dependencies = [
 [[package]]
 name = "tantivy"
 version = "0.26.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "aho-corasick",
  "arc-swap",
@@ -1008,7 +1008,7 @@ dependencies = [
 [[package]]
 name = "tantivy-bitpacker"
 version = "0.9.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "bitpacking",
 ]
@@ -1016,7 +1016,7 @@ dependencies = [
 [[package]]
 name = "tantivy-columnar"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "downcast-rs",
  "fastdivide",
@@ -1031,7 +1031,7 @@ dependencies = [
 [[package]]
 name = "tantivy-common"
 version = "0.10.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "async-trait",
  "byteorder",
@@ -1054,7 +1054,7 @@ dependencies = [
 [[package]]
 name = "tantivy-query-grammar"
 version = "0.25.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "fnv",
  "nom",
@@ -1066,7 +1066,7 @@ dependencies = [
 [[package]]
 name = "tantivy-sstable"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "futures-util",
  "itertools",
@@ -1079,7 +1079,7 @@ dependencies = [
 [[package]]
 name = "tantivy-stacker"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "murmurhash32",
  "tantivy-common",
@@ -1088,7 +1088,7 @@ dependencies = [
 [[package]]
 name = "tantivy-tokenizer-api"
 version = "0.6.0"
-source = "git+https://github.com/lnx-search/tantivy.git?rev=ca62d29e#ca62d29ec28b458aeb420c785aae2005ccabfa79"
+source = "git+https://github.com/lnx-search/tantivy.git?branch=chillfish8%2Fupack-with-vbyte#725d69a8f8f832da672fada50c716c57e8dacdd8"
 dependencies = [
  "serde",
 ]

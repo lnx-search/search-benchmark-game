@@ -8,7 +8,7 @@ edition = "2018"
 serde = "1.0"
 serde_derive = "1.0"
 serde_json = "1.0"
-tantivy = { git = "https://github.com/lnx-search/tantivy.git", rev = "ca62d29e" }
+tantivy = { git = "https://github.com/lnx-search/tantivy.git", branch = "chillfish8/upack-with-vbyte" }
 env_logger = "0.5"
 log = "0.4"
 futures = "*"
